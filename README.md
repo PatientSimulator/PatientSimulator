@@ -3,4 +3,3 @@
 
 ## 🔥 Release News
 - `[2025/1/23]` Release [weights](https://huggingface.co/zhaocheng/patient_simulator).
-- `[2025/1/16]` Release [paper](https://arxiv.org/abs/2501.09484).
